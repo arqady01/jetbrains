@@ -2,7 +2,7 @@ import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 import java.util.Base64;
 
-public class DEs {
+public class setkey_AES {
     public static void main(String[] args) throws Exception {
         //orginal text
         String text = "hotmail";
